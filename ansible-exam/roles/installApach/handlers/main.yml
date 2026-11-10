@@ -1,0 +1,9 @@
+#SPDX-License-Identifier: MIT-0
+---
+# handlers file for installApach
+
+- name: Restart Apache service
+  service:
+    name: apache2
+    state: restarted
+    enabled: yes

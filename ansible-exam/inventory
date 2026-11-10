@@ -1,0 +1,11 @@
+[debian]
+dev-ubuntu   ansible_host=192.168.1.235 ansible_user=shahar ansible_ssh_private_key_file=~/.ssh/server_key
+
+[non_debian]
+dev-centos   ansible_host=192.168.1.159 ansible_user=shahar ansible_ssh_private_key_file=~/.ssh/id_rsa_fips
+
+
+
+[servers:children]
+debian
+non_debian

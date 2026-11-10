@@ -1,0 +1,48 @@
+- name: Install Apache2
+  hosts: all
+  become: yes
+
+  
+  tasks:
+
+    - name: Ping1
+      ping:
+
+    - name: reboot server
+      shell: sleep 2 && reboot now
+      async: 1
+      poll: 0
+      ignore_errors: yes
+
+
+    - name: wait for servers back
+      wait_for:
+        host: "{{ inventory_hostname }}"
+        port: 22
+        state: "started"
+        delay: 20
+        timeout: 10    
+      delegate_to: 127.0.0.1
+      ignore_errors: yes
+
+
+
+    - name: Ping1
+      ping:
+
+
+    - name : Say hello
+      shell: echo Host {{ ansible_hostname }} back 2 work  >> pb_a.log
+      delegate_to: 127.0.0.1
+
+
+
+
+
+
+
+
+    - name : Say goodby to babylon
+      debug:
+        msg: "GOOD DAY WORLD from Playbook a.yml"
+      run_once: true

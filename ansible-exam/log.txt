@@ -1,0 +1,52 @@
+Bla-bla-bla
+Bla-bla-bla
+total 36
+drwxrwxr-x 4 ubuntu ubuntu 4096 Jul 21 16:38 .
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul 21 15:12 ..
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:57 App
+-rw-rw-r-- 1 ubuntu ubuntu  421 Jul 21 16:45 a.yml
+-rw-rw-r-- 1 ubuntu ubuntu  334 Jul 21 15:19 ansible.cfg
+-rw-rw-r-- 1 ubuntu ubuntu 1206 Jul 21 15:59 apache_pb.yml
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:14 group_vars
+-rw-rw-r-- 1 ubuntu ubuntu  136 Jul 21 15:40 hosts
+-rw-r--r-- 1 root   root     24 Jul 21 16:42 log.txt
+total 36
+drwxrwxr-x 4 ubuntu ubuntu 4096 Jul 21 16:38 .
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul 21 15:12 ..
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:57 App
+-rw-rw-r-- 1 ubuntu ubuntu  421 Jul 21 16:45 a.yml
+-rw-rw-r-- 1 ubuntu ubuntu  334 Jul 21 15:19 ansible.cfg
+-rw-rw-r-- 1 ubuntu ubuntu 1206 Jul 21 15:59 apache_pb.yml
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:14 group_vars
+-rw-rw-r-- 1 ubuntu ubuntu  136 Jul 21 15:40 hosts
+-rw-r--r-- 1 root   root    504 Jul 21 16:45 log.txt
+total 36
+drwxrwxr-x 4 ubuntu ubuntu 4096 Jul 21 16:38 .
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul 21 15:12 ..
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:57 App
+-rw-rw-r-- 1 ubuntu ubuntu  444 Jul 21 16:46 a.yml
+-rw-rw-r-- 1 ubuntu ubuntu  334 Jul 21 15:19 ansible.cfg
+-rw-rw-r-- 1 ubuntu ubuntu 1206 Jul 21 15:59 apache_pb.yml
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:14 group_vars
+-rw-rw-r-- 1 ubuntu ubuntu  136 Jul 21 15:40 hosts
+-rw-r--r-- 1 root   root    984 Jul 21 16:45 log.txt
+total 36
+drwxrwxr-x 4 ubuntu ubuntu 4096 Jul 21 16:38 .
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul 21 15:12 ..
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:57 App
+-rw-rw-r-- 1 ubuntu ubuntu  444 Jul 21 16:46 a.yml
+-rw-rw-r-- 1 ubuntu ubuntu  334 Jul 21 15:19 ansible.cfg
+-rw-rw-r-- 1 ubuntu ubuntu 1206 Jul 21 15:59 apache_pb.yml
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:14 group_vars
+-rw-rw-r-- 1 ubuntu ubuntu  136 Jul 21 15:40 hosts
+-rw-r--r-- 1 root   root   1464 Jul 21 16:47 log.txt
+total 36
+drwxrwxr-x 4 ubuntu ubuntu 4096 Jul 21 16:38 .
+drwxrwxr-x 6 ubuntu ubuntu 4096 Jul 21 15:12 ..
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:57 App
+-rw-rw-r-- 1 ubuntu ubuntu  499 Jul 21 16:51 a.yml
+-rw-rw-r-- 1 ubuntu ubuntu  334 Jul 21 15:19 ansible.cfg
+-rw-rw-r-- 1 ubuntu ubuntu 1206 Jul 21 15:59 apache_pb.yml
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jul 21 15:14 group_vars
+-rw-rw-r-- 1 ubuntu ubuntu  136 Jul 21 15:40 hosts
+-rw-r--r-- 1 root   root   1944 Jul 21 16:47 log.txt
